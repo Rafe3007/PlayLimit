@@ -1,0 +1,8 @@
+version: 1.0
+name: PlayLimit
+main: com.thebatz.PlayLimit.Main
+author: Thebatz
+description: Limit your playtime to not be slothful 
+commands:
+  limit:
+    description: type '/Limit help' for more more info
