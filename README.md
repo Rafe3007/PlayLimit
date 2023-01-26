@@ -1,5 +1,5 @@
 ### PlayLimit
-A Spigot Minecraft plugin for versions 1.17+. 
+A Spigot Minecraft plugin for versions 1.16+. 
 
 This plugin is to help players keep track of time while playing on their favorite servers by giving them the ability to setup an in-game accountability timer. There are two modes:
 - Strict Mode: kicks and bans the player from the server for however long they establish in the command. 
